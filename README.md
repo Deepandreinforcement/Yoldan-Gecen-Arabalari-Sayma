@@ -1,1 +1,2 @@
-# Yoldan-Ge-en-Arabalar-Sayma
+Burada arabaları saymak için basit bir yol kullanılıyor. 
+Normalde
